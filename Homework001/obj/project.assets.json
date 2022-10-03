@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rusel\\OneDrive\\Рабочий стол\\HomeWork\\Найти максимальное из трех\\Найти максимальное из трех.csproj",
+      "projectUniqueName": "C:\\Users\\Rusel\\OneDrive\\Рабочий стол\\HomeWork\\Homework001\\Найти максимальное из трех.csproj",
       "projectName": "Найти максимальное из трех",
-      "projectPath": "C:\\Users\\Rusel\\OneDrive\\Рабочий стол\\HomeWork\\Найти максимальное из трех\\Найти максимальное из трех.csproj",
+      "projectPath": "C:\\Users\\Rusel\\OneDrive\\Рабочий стол\\HomeWork\\Homework001\\Найти максимальное из трех.csproj",
       "packagesPath": "C:\\Users\\Rusel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rusel\\OneDrive\\Рабочий стол\\HomeWork\\Найти максимальное из трех\\obj\\",
+      "outputPath": "C:\\Users\\Rusel\\OneDrive\\Рабочий стол\\HomeWork\\Homework001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rusel\\AppData\\Roaming\\NuGet\\NuGet.Config"

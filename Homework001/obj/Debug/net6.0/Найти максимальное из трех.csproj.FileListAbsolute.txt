@@ -13,3 +13,18 @@ C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Найти максим
 C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Найти максимальное из трех\obj\Debug\net6.0\Найти максимальное из трех.pdb
 C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Найти максимальное из трех\obj\Debug\net6.0\Найти максимальное из трех.genruntimeconfig.cache
 C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Найти максимальное из трех\obj\Debug\net6.0\ref\Найти максимальное из трех.dll
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\bin\Debug\net6.0\Найти максимальное из трех.exe
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\bin\Debug\net6.0\Найти максимальное из трех.deps.json
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\bin\Debug\net6.0\Найти максимальное из трех.runtimeconfig.json
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\bin\Debug\net6.0\Найти максимальное из трех.dll
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\bin\Debug\net6.0\Найти максимальное из трех.pdb
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\Найти максимальное из трех.csproj.AssemblyReference.cache
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\Найти максимальное из трех.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\Найти максимальное из трех.AssemblyInfoInputs.cache
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\Найти максимальное из трех.AssemblyInfo.cs
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\Найти максимальное из трех.csproj.CoreCompileInputs.cache
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\Найти максимальное из трех.dll
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\refint\Найти максимальное из трех.dll
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\Найти максимальное из трех.pdb
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\Найти максимальное из трех.genruntimeconfig.cache
+C:\Users\Rusel\OneDrive\Рабочий стол\HomeWork\Homework001\obj\Debug\net6.0\ref\Найти максимальное из трех.dll
